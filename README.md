@@ -28,4 +28,4 @@ Powerlifting, chess, cosmic horror, and running RPG sessions. I like heavy weigh
 ### Contact
 - Email: arthur.rosa66@gmail.com
 - Location: Brasília, BR
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arthur-burity/)
+- LinkedIn: [arthur-burity](https://www.linkedin.com/in/arthur-burity/)
