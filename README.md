@@ -21,7 +21,7 @@ If you're curious, here are the kinds of things I’ve been building:
   Focused on maintainability, clearer boundaries, and confidence through tests.
 - Trainee Process Platform (React + Express + MongoDB)  
   MVC-style REST APIs and a clean candidate-management UI.
-- [Landing Page (React)](https://www.vanessadigiorno.com.br/)
+- [Landing Page (React)](https://www.vanessadigiorno.com.br/)  
   Responsive webpage for a therapist
 
 ### Outside of coding
